@@ -29,14 +29,14 @@
 
 ### :woman_technologist: About Me :
 
-I am a Computer Science Student and Aspiring Data Scientist & ML Engineer <img src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width="30"> 
+Computer Science Graduate and currently a Junior Data Engineer <img src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width="30"> 
 
 
 - 🏫 I am currently taking up Bachelor's In Computer Science at Polytechnic University of the Philippines and expected to graduate by the year of 2026.
 
 - :seedling: Learning and taking courses online that focuses mainly on data science, AI and ML. 
 
-- 💻 Programming Languanges i am studying: C, Python, HTML, Java
+- 💻 Programming Languanges i am studying: C, Python, HTML, Java, SQL
 
 - 🎶 I listen to K-Pop, Taylor Swift & watches anime on my free time
 
